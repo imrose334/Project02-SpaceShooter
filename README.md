@@ -1,10 +1,18 @@
-# Exercise-02d-Scenes-And-Menus
+# Project-02-SpaceShooter
 
-Exercise for MSCH-C220
+Project for MSCH-C220
+27 September 2025
 
-A user-controlled ship for a space-shooter game. Recently added the ability to shoot at asteroids. Created in Unity.
+A user-controlled ship for a space-shooter game. Created in Unity.
 
 ## Implementation
+
+FEATURES I ADDED: 
+
+1. Asteroid collision with player and enemy
+2. You can now shoot enemy bullets in midair
+
+
 
 Created using [Unity 2022.3.45f](https://unity.com)
 
