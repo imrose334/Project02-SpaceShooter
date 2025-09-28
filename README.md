@@ -3,7 +3,7 @@
 Project for MSCH-C220
 27 September 2025
 
-A user-controlled ship for a space-shooter game. Created in Unity.
+A space-shooter game with a user-controlled ship and several unique levels. Created in Unity ver. 2022.3.45f1
 
 ## Implementation
 
