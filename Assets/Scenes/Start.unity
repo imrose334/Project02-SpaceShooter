@@ -465,8 +465,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\t\tgreetings. \n\tand   welcome   to . . . . . \nSUPER SPACESHIP MEGA
-    WAR!!\n\n\n(a game by imrose334)\n"
+  m_text: "\t\tGreetings, \n\tand   welcome   to . . . . . \nSUPER SPACESHIP MEGA
+    WAR!!\n\n\n(a game by izzy)\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

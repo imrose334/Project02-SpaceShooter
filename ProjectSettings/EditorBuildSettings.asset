@@ -21,6 +21,9 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene 3.unity
     guid: e21f5d442433b4b39ba4ca3081adde43
   - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: c6d186a6edbe44ef79f7bc5a40d04134
+  - enabled: 1
     path: Assets/Scenes/End.unity
     guid: a3846d22f0af14396bbe7afbf5002cea
   m_configObjects: {}
