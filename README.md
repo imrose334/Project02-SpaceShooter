@@ -7,10 +7,17 @@ A user-controlled ship for a space-shooter game. Created in Unity.
 
 ## Implementation
 
+Suggestion : 19-20 points
 FEATURES I ADDED: 
 
-1. Asteroid collision with player and enemy
-2. You can now shoot enemy bullets in midair
+1. Asteroid collision with player and enemy (1 point)
+2. Added a background image (1 point)
+3. Created 3 seperate levels for a total of 4 levels (1 point)
+4. Downloaded and used assets from the internet (spliced gif into spritesheet) (1 point)
+
+5. Calculated Score needed to advance to next level, with a final Win scene (~1 point)
+6. Animated background image (~1 point)
+7. Made it so that when Asteroids collide with themselves your score increases (~1 point)
 
 
 
